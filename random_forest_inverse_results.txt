@@ -1,0 +1,3 @@
+Mean squared error: 8615.8168438723987492267042398
+Coefficient of determination: 0.67
+Model score:  0.6738875673749584738203566
